@@ -1,0 +1,2 @@
+sample=$(echo $1|cut -f8 -d"/"|tr -d "\n")
+echo "module load htseq/0.11.1;htseq-count -q -f bam -r pos -s reverse $1 /data/talkowski/tools/ref/RNA-Seq/human/star_2.4.2a_ref/star_GRCh38.92_ercc/transcripts.gtf > /data/talkowski/Samples/cadm2/data/counts4DESeq/RNASeq_EditedGTF/$sample.count;"
