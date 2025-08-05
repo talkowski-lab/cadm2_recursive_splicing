@@ -1,6 +1,6 @@
 # CADM2 Transcriptomic Analysis
 
-This repository contains scripts, data, and analyses related to transcriptomic profiling and differential expression of CADM2 across iPSC-derived neurons and progenitors. The work includes isoform-specific quantification, recursive splicing analysis, exon usage, and functional enrichment, with a focus on heterozygous and homozygous deletion and inversion events.
+This repository contains scripts, data, and analyses related to transcriptomic profiling and differential expression of `CADM2` across hiPSCs and hiPSC-derived neurons. The work includes isoform-specific quantification, recursive splicing analysis, exon usage, and functional enrichment, with CRISPR edits for the first recursive splice site in intron 1 of `CADM2` gene, generating heterozygous and homozygous deletion and inversion events.
 
 ---
 
@@ -89,5 +89,6 @@ Intermediate and final output tables for figure plotting:
 *Add your contact information or lab page link here*
 
 ---
+
 
 
