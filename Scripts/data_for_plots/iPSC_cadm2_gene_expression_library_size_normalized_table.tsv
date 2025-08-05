@@ -1,0 +1,21 @@
+SampleNames FileNames Samples celltype ID replicate zygosity size mutation_type CRISPR_round librarySize genotype gene_id unstranded stranded_r1 stranded_r2 normalized_counts
+1 iPSC_r2E9_rep1_hom_del_round2.count iPSC_r2E9_rep1_hom_del_round2.count iPSC_r2E9_rep1 iPSC r2E9 rep1 hom 500bp del round2 29897998 hom_500bp_del ENSG00000175161 227 1 228 7.62592866585917
+2 iPSC_r2E9_rep2_hom_del_round2.count iPSC_r2E9_rep2_hom_del_round2.count iPSC_r2E9_rep2 iPSC r2E9 rep2 hom 500bp del round2 44775434 hom_500bp_del ENSG00000175161 345 2 345 7.70511794480875
+3 iPSC_r2E9_rep3_hom_del_round2.count iPSC_r2E9_rep3_hom_del_round2.count iPSC_r2E9_rep3 iPSC r2E9 rep3 hom 500bp del round2 29799920 hom_500bp_del ENSG00000175161 201 1 200 6.71142741322796
+4 iPSC_r2E9_rep4_hom_del_round2.count iPSC_r2E9_rep4_hom_del_round2.count iPSC_r2E9_rep4 iPSC r2E9 rep4 hom 500bp del round2 36891817 hom_500bp_del ENSG00000175161 194 0 194 5.25861873379671
+5 iPSC_rA6_500bp_het_del.count iPSC_rA6_500bp_het_del.count iPSC_rA6_rep1 iPSC rA6 rep1 het 500bp del round2 35949310 het_500bp_del ENSG00000175161 339 1 339 9.42994455248237
+6 iPSC_rB10_rep1_500bp_inv.count iPSC_rB10_rep1_500bp_inv.count iPSC_rB10_rep1 iPSC rB10 rep1 het 500bp inv round2 26670205 het_500bp_inv ENSG00000175161 252 0 253 9.48624129435825
+7 iPSC_rB10_rep2_500bp_inv.count iPSC_rB10_rep2_500bp_inv.count iPSC_rB10_rep2 iPSC rB10 rep2 het 500bp inv round2 7857379 het_500bp_inv ENSG00000175161 80 0 80 10.1815121810975
+8 iPSC_rB9_500bp_het_del.count iPSC_rB9_500bp_het_del.count iPSC_rB9_rep1 iPSC rB9 rep1 het 500bp del round2 36365078 het_500bp_del ENSG00000175161 435 1 435 11.9620257654885
+9 iPSC_rC2_500bp_het_del.count iPSC_rC2_500bp_het_del.count iPSC_rC2_rep1 iPSC rC2 rep1 het 500bp del round2 43183596 het_500bp_del ENSG00000175161 515 5 511 11.8331970315765
+10 iPSC_rC5_rep1_500bp_inv.count iPSC_rC5_rep1_500bp_inv.count iPSC_rC5_rep1 iPSC rC5 rep1 het 500bp inv round2 35806726 het_500bp_inv ENSG00000175161 293 0 294 8.21074789133193
+11 iPSC_rC5_rep2_500bp_inv.count iPSC_rC5_rep2_500bp_inv.count iPSC_rC5_rep2 iPSC rC5 rep2 het 500bp inv round2 37821764 het_500bp_inv ENSG00000175161 376 5 372 9.83560682151155
+12 iPSC_rC8_500bp_het_del.count iPSC_rC8_500bp_het_del.count iPSC_rC8_rep1 iPSC rC8 rep1 het 500bp del round2 27306660 het_500bp_del ENSG00000175161 262 2 260 9.52148669958171
+13 iPSC_siA8_wt.count iPSC_siA8_wt.count iPSC_siA8_rep1 iPSC siA8 rep1 wt wt wt round2 21350024 wt_wt_wt ENSG00000175161 235 0 236 11.0538517427428
+14 iPSC_siB6_100kb_het_del.count iPSC_siB6_100kb_het_del.count iPSC_siB6_rep1 iPSC siB6 rep1 het 100kb del round2 29117374 het_100kb_del ENSG00000175161 234 2 232 7.9677514874796
+15 iPSC_siC1_100kb_het_del.count iPSC_siC1_100kb_het_del.count iPSC_siC1_rep1 iPSC siC1 rep1 het 100kb del round2 35508513 het_100kb_del ENSG00000175161 365 2 366 10.3073874143927
+16 iPSC_siF2_wt.count iPSC_siF2_wt.count iPSC_siF2_rep1 iPSC siF2 rep1 wt wt wt round2 31489738 wt_wt_wt ENSG00000175161 314 0 317 10.0667715939713
+17 iPSC_soC11_wt.count iPSC_soC11_wt.count iPSC_soC11_rep1 iPSC soC11 rep1 wt wt wt round2 27780841 wt_wt_wt ENSG00000175161 282 0 285 10.258868692996
+18 iPSC_soD8_100kb_het_del.count iPSC_soD8_100kb_het_del.count iPSC_soD8_rep1 iPSC soD8 rep1 het 100kb del round2 34322914 het_100kb_del ENSG00000175161 272 0 272 7.92473506183071
+19 iPSC_soF3_wt.count iPSC_soF3_wt.count iPSC_soF3_rep1 iPSC soF3 rep1 wt wt wt round2 44577627 wt_wt_wt ENSG00000175161 417 2 421 9.44419944112324
+20 iPSC_soF6_100kb_het_del.count iPSC_soF6_100kb_het_del.count iPSC_soF6_rep1 iPSC soF6 rep1 het 100kb del round2 27237885 het_100kb_del ENSG00000175161 278 2 277 10.1696589144128
